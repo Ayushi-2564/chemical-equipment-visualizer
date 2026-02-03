@@ -1,0 +1,16 @@
+Equipment Name,Type,Flowrate,Pressure,Temperature
+Reactor-A1,Reactor,150.5,25.3,350.2
+Heat-Exchanger-B2,Heat Exchanger,200.8,15.7,280.5
+Pump-C3,Pump,180.2,45.6,85.3
+Distillation-D4,Distillation Column,120.5,10.2,150.8
+Reactor-A2,Reactor,160.3,28.1,365.7
+Heat-Exchanger-B3,Heat Exchanger,210.5,18.3,295.2
+Pump-C4,Pump,175.8,42.3,90.1
+Compressor-E1,Compressor,95.2,80.5,120.3
+Tank-F1,Storage Tank,300.0,5.2,25.0
+Reactor-A3,Reactor,155.7,26.8,355.5
+Heat-Exchanger-B4,Heat Exchanger,205.3,16.5,287.9
+Pump-C5,Pump,182.1,44.2,88.7
+Distillation-D5,Distillation Column,125.8,11.5,155.2
+Compressor-E2,Compressor,92.5,78.3,118.5
+Tank-F2,Storage Tank,280.5,4.8,22.5
