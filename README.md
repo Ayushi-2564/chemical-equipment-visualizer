@@ -231,18 +231,6 @@ python main.py
 ```
 
 ---
-
-## API Endpoints (Sample)
-
-| Method | Endpoint        | Description     |
-| ------ | --------------- | --------------- |
-| POST   | `/api/upload/`  | Upload CSV      |
-| GET    | `/api/summary/` | Dataset summary |
-| GET    | `/api/history/` | Last 5 datasets |
-| GET    | `/api/report/`  | Generate PDF    |
-
----
-
 ## Testing the Application
 
 1. Use provided sample CSV
@@ -253,43 +241,6 @@ python main.py
    * Chart visualization
    * Summary statistics
    * Dataset history
-
----
-
-## Demo Submission
-
-Include a 2–3 minute video covering:
-
-* CSV upload
-* Charts (Web and Desktop)
-* API response
-* History feature
-* PDF generation
-
----
-
-## Optional Deployment
-
-You may deploy the web app using:
-
-* Hostinger
-* Vercel
-* Netlify
-* Render
-
----
-
-## Submission Guidelines
-
-Submit the following:
-
-* GitHub Repository (Backend + Both Frontends)
-* README File
-* Demo Video
-* Deployment Link (Optional)
-
-Submission Form:
-[https://forms.gle/bSiKezbM4Ji9xnw66](https://forms.gle/bSiKezbM4Ji9xnw66)
 
 ---
 
