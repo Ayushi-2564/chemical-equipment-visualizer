@@ -244,9 +244,9 @@ python main.py
 
 ---
 
-## Author
+## Credits
 
-Developed as part of the Intern Screening Task – Hybrid Web + Desktop Application.
+Created by Ayushi Chauhan
 
 ---
 
